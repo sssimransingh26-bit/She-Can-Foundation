@@ -31,29 +31,35 @@ https://she-can-foundation-sable.vercel.app/
 ##  Project Structure
 
 ```plaintext
-project/
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-│
-└── images/
-    ├── logo.png
-    ├── qr.png
-    ├── team.jpg
-    └── bg_pic.jpg
+project/ │ ├── index.html ├── style.css ├── script.js ├── README.md │ ├── images/ │ ├── logo.png │ ├── qr.png │ ├── bg_pic.jpg │ ├── team.jpg │ └── weneed.webp │ └── screenshots/ ├── home.png ├── donate.png └── GetInTouch.png
 ```
 
 ---
 
-## 📸 Screenshots
+## Screenshots
+
+###Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### Donation Section
+
+![Donate](screenshots/donate.png)
+
+---
+
+###Contact Section
+
+![Contact](screenshots/GetInTouch.png)
+
 
 
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Simran Singh
 
