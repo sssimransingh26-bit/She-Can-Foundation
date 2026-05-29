@@ -28,17 +28,31 @@ https://she-can-foundation-sable.vercel.app/
 
 ---
 
-##  Project Structure
-
-```plaintext
-project/ │ ├── index.html ├── style.css ├── script.js ├── README.md │ ├── images/ │ ├── logo.png │ ├── qr.png │ ├── bg_pic.jpg │ ├── team.jpg │ └── weneed.webp │ └── screenshots/ ├── home.png ├── donate.png └── GetInTouch.png
-```
+ Project Structure
+project/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+├── images/
+│   ├── logo.png
+│   ├── qr.png
+│   ├── bg_pic.jpg
+│   ├── team.jpg
+│   └── weneed.webp
+│
+└── screenshots/
+    ├── home.png
+    ├── donate.png
+    └── GetInTouch.png
 
 ---
 
 ## Screenshots
 
-###Home Page
+### Home Page
 
 ![Home](screenshots/home.png)
 
@@ -50,7 +64,7 @@ project/ │ ├── index.html ├── style.css ├── script.js ├─
 
 ---
 
-###Contact Section
+### Contact Section
 
 ![Contact](screenshots/GetInTouch.png)
 
