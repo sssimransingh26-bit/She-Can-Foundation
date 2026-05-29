@@ -27,8 +27,9 @@ https://she-can-foundation-sable.vercel.app/
 * JavaScript
 
 ---
+## 📂 Project Structure
 
- Project Structure
+```plaintext
 project/
 │
 ├── index.html
@@ -47,6 +48,7 @@ project/
     ├── home.png
     ├── donate.png
     └── GetInTouch.png
+```
 
 ---
 
